@@ -7,7 +7,7 @@
  
 - 🌱 I’m currently learning *Backend Development*
 
-- 💬 Ask me about *HTML, CSS, Node, Express and MongoDB*
+- 💬 Ask me about *HTML, CSS, Javascript,React, Angular, Node, Express,Fastify, MongoDB and SQL*
 
 - 💻 All of my projects are available at [Portfolio](https://saikumar2564.github.io/)
 
